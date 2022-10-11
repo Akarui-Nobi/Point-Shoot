@@ -15,7 +15,6 @@ let timeToNextRaven = 0;
 let ravenInterval = 350;
 let lastTime = 0;
 
-
 let ravens = [];
 class Raven {
     constructor(){
